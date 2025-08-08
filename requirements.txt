@@ -1,0 +1,10 @@
+flask 
+azure-search-documents 
+pandas
+openai
+requests
+python-dotenv
+azure-functions
+openpyxl
+opencensus-ext-azure 
+opencensus-ext-logging
